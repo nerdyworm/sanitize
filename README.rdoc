@@ -6,7 +6,7 @@ A Ruby lib for sanitizing strings for use in urls
 
 Add the following line to your Gemfile
 
-    gem 'sanitize', :git => 'https://github.com/nerdyworm/sanitze.git'
+    gem 'sanitize', :git => 'git://github.com/nerdyworm/sanitize.git'
 
 Then
 
