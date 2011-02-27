@@ -1,0 +1,17 @@
+= Sanitize
+
+A Ruby lirbary for sanitizing strings for use in urls
+
+== Install
+
+    Add the following line to your Gemfile
+
+    gem 'sanitize', :git => 'https://github.com/nerdyworm/sanitze.git'
+    
+    Then
+    bundle install
+
+
+== Problems or Questions
+
+Contact me via github message.
